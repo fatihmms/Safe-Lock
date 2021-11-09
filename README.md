@@ -18,5 +18,7 @@ In this project, what was expected of us was to make safe lock for hotels, I mad
 ## Hardware Circuit Schematic:
 ![alt text](https://www.linkpicture.com/q/circuit.png)
 
+## Logic of the structure:
 
+For the working logic you can contact with me.
 
